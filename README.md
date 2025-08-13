@@ -1,6 +1,16 @@
-<marquee behavior="scroll" direction="left" scrollamount="8">
-    <h1>🚀 Source Code Analysis Chatbot</h1>
-</marquee>
+<div style="overflow: hidden; white-space: nowrap;">
+  <span style="display: inline-block; padding-left: 100%; animation: slide 10s linear infinite;">
+    🚀 Source Code Analysis Chatbot
+  </span>
+</div>
+
+<style>
+@keyframes slide {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
+}
+</style>
+
 
 
 An AI-powered web application that analyzes and explains Python code from GitHub repositories in natural language. Built using **LangChain**, **OpenAI API**, and **ChromaDB**, it enables developers to explore unfamiliar codebases with conversational Q&A.
