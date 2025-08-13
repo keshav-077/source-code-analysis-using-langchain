@@ -1,6 +1,7 @@
-<marquee behavior="alternate" direction="left" scrollamount="6">
-  <h1>🤖 Source Code Analysis Chatbot</h1>
+<marquee behavior="alternate" direction="left" scrollamount="6" style="font-family: 'Righteous', cursive; font-size: 35px; text-align: center;">
+  🤖 Source Code Analysis Chatbot
 </marquee>
+
 
 
 
