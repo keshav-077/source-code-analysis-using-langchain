@@ -51,8 +51,12 @@ python app.py
 ```
 Open **http://localhost:8080** in your browser.
 
-## 📸 Screenshots
-(Add your app screenshots or demo GIF here)
+## 📸 Process Flow
+
+
+<!-- Example: Hosted image (direct link) -->
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/static/images/flowchart.png" alt="Process Flow" width="600">
+
 
 
 
