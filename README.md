@@ -55,7 +55,7 @@ Open **http://localhost:8080** in your browser.
 
 
 <!-- Example: Hosted image (direct link) -->
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/static/images/flowchart.png" alt="Process Flow" width="600">
+<img src="images/ChatGPT Image Aug 13, 2025, 05_47_58 AM.png" alt="Process Flow" width="600">
 
 
 
