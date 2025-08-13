@@ -1,15 +1,6 @@
-<div style="overflow: hidden; white-space: nowrap;">
-  <span style="display: inline-block; padding-left: 100%; animation: slide 10s linear infinite;">
-    🚀 Source Code Analysis Chatbot
-  </span>
-</div>
-
-<style>
-@keyframes slide {
-  0% { transform: translate(0, 0); }
-  100% { transform: translate(-100%, 0); }
-}
-</style>
+<marquee behavior="alternate" direction="left" scrollamount="6">
+  <h1>🤖 Source Code Analysis Chatbot</h1>
+</marquee>
 
 
 
