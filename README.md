@@ -1,5 +1,5 @@
 <p align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="6" style="font-family: 'Righteous', cursive; font-size: 35px; margin: 20px 0;">
+  <marquee behavior="alternate" direction="left" scrollamount="6" style="font-family: 'Righteous', cursive; font-size: 60px; margin: 20px 0;">
     🤖 Source Code Analysis Chatbot
   </marquee>
 </p>
